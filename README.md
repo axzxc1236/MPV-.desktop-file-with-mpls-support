@@ -9,7 +9,7 @@ So I created an desktop file with workaround discussed at https://github.com/mpv
 3. Set mpv-mpls-workaround-patched.desktop as the default file association for .mpls file
 
 # How to apply (for Ubuntu users)
-1. Download this repo
+1. [Download this repository](https://github.com/axzxc1236/MPV-.desktop-file-with-mpls-support/archive/master.zip)
 2. Extract to `~/.local/mpv-mpls-workaround` (not hard requirement but recommended)
 3. Open `~/.local/mpv-mpls-workaround`
 4. copy `mpv-mpls-workaround-patched.desktop` to `~/.local/share/applications`
