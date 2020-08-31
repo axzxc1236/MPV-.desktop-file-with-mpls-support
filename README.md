@@ -3,6 +3,11 @@ MPV doesn't open .mpls file
 I need MPV to play mpls file  
 So I created an desktop file with workaround discussed at https://github.com/mpv-player/mpv/issues/1982
 
+# Requirements
+1. Python 3
+2. MPV
+3. Set mpv-mpls-workaround-patched.desktop as the default file association for .mpls file
+
 # How to apply (for Ubuntu users)
 1. Download this repo
 2. Extract to `~/.local/mpv-mpls-workaround` (not hard requirement but recommended)
