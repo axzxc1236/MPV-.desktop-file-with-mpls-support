@@ -33,3 +33,4 @@ Exec=/bin/sh -c "/usr/bin/python3 $HOME/.local/mpv-mpls-workaround/mpv_mpls.py %
 Terminal=false
 Categories=AudioVideo;Audio;Video;Player;TV;
 Keywords=mpv;media;player;video;audio;tv;
+NoDisplay=true
